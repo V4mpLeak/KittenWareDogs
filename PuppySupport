@@ -15,5 +15,6 @@ local Groups = {
   417920661, -- Giveaway Winner 607331465134473216
   2888879844, -- 5$ Paypal 914588801882542152
   1666616753, -- 5 USD Paypal
+  1730553756
 }
 return Groups
