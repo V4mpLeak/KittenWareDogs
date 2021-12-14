@@ -18,4 +18,3 @@ local Groups = {
   1730553756, -- Brother Man
   2643045873, --- Cool kid
 }
-return Groups
